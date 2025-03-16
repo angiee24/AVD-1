@@ -1,4 +1,4 @@
-**Dokumentasi Checkpoint 1**
+# **Dokumentasi Checkpoint 1**
 
 ![Screenshot 2025-03-03 201828](https://github.com/user-attachments/assets/28c697b3-ebd6-4490-9a2d-0def03dbd51c)
 
@@ -8,7 +8,7 @@
 
 ![Screenshot 2025-03-03 201913](https://github.com/user-attachments/assets/45075ba9-ed6e-4b8f-ac8f-b6057d07d038)
 
-Dokumentasi Checkpoint 3
+# **Dokumentasi Checkpoint 3**
 
 ![Screenshot 2025-03-16 172816](https://github.com/user-attachments/assets/3b371771-35ca-4e20-bde5-974c792d5d0c)
 ![Screenshot 2025-03-16 172829](https://github.com/user-attachments/assets/04bf79f2-f1ef-403f-bea4-f1788cacf23c)
